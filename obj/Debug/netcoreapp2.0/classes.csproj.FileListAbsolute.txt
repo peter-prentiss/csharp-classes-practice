@@ -1,0 +1,10 @@
+/Users/admin/dotnet/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/admin/dotnet/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/admin/dotnet/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/admin/dotnet/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/admin/dotnet/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/admin/dotnet/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/admin/dotnet/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/admin/dotnet/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/admin/dotnet/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/admin/dotnet/classes/obj/Debug/netcoreapp2.0/classes.pdb
